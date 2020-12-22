@@ -1,1 +1,2 @@
-# CHAPTER # 1
+# CHAPTER 01 HANDS ON MACHINE LEARNING
+## Aurelien Geron
